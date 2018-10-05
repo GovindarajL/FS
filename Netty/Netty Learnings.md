@@ -1,7 +1,7 @@
-- From livingbook.manning.com
+From livingbook.manning.com
 
 **ByteBuffer:-**
-  - ByteBuff we are using instead of byte[] since byte buffer is used for faster read and writes and socket channel supports       bytebuff. 
+  - ByteBuff we are using instead of byte[] since byte buffer is used for faster read and writes and socket channel supports       bytebuff. May be byte buffer is efficient for larger files read and write
   - Search google on advantages of byte buffer over 
 
 **Encoders and Decoders in Netty:-** 
