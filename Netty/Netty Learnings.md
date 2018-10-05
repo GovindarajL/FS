@@ -1,4 +1,5 @@
 - From livingbook.manning.com
+
 **ByteBuffer:-**
   - ByteBuff we are using instead of byte[] since byte buffer is used for faster read and writes and socket channel supports       bytebuff. 
   - Search google on advantages of byte buffer over 
